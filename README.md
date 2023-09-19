@@ -1,1 +1,1 @@
-<img src="./src/assets/page_screenshot" width="100%">
+<img src="./src/assets/page_screenshot.png" width="100%">
